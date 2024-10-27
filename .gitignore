@@ -1,3 +1,9 @@
 
 DataSets/.DS_Store
 .DS_Store
+imdb_password.py
+*.py
+.idea/machine-learning-project-4.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
